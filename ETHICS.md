@@ -1,6 +1,6 @@
 # Ethics & Responsible Use – Redmoon 40KGF Turbojet Project
 
-This document defines the ethical framework governing use, modification, and distribution of the Redmoon 40KGF open source turbojet engine model and associated artifacts (design files, analyses, test data, documentation, and tooling).
+This document defines the ethical framework governing use, modification, and distribution of the Redmoon 40KGF turbojet engine model and associated artifacts (design files, analyses, test data, documentation, and tooling).
 
 ## 1. Scope
 Applies to: all contributors, users, integrators, educators, and downstream redistributors. Covers digital assets, physical builds, test operations, and derivative works.
@@ -75,7 +75,7 @@ Always:
 ## 9. Attribution & Derivatives
 Derivative publications or modified designs must:
 1. Retain copyright/license notices
-2. Credit the Redmoon 40KGF Open Source Project
+2. Credit the Redmoon 40KGF Project
 3. Clearly mark changed sections or geometry
 4. Avoid implying official endorsement unless granted
 

@@ -42,7 +42,7 @@ If you believe the technology is being misused or exposed to unsafe conditions, 
 - `COMMUNITY.md`
 
 ## Attribution
-Redmoon 40KGF Open Source Turbojet.
+Redmoon 40KGF Turbojet.
 
 *Use these channels constructively and respectfully. Unsolicited commercial spam or abusive contact will be ignored or blocked.*
 

@@ -1,6 +1,6 @@
-# Contributing to the Redmoon 40KGF Open Source Turbojet
+# Contributing to the Redmoon 40KGF Turbojet
 
-Thank you for your interest in advancing open, ethical propulsion technology. This guide explains how to propose changes, report issues, share data, and collaborate effectively.
+Thank you for your interest in advancing ethical propulsion technology. This guide explains how to propose changes, report issues, share data, and collaborate effectively.
 
 ## 1. Read First
 Before contributing, familiarize yourself with:
@@ -8,7 +8,7 @@ Before contributing, familiarize yourself with:
 - `CODE_OF_CONDUCT.md` – behavioral expectations
 - `ETHICS.md` – ethical use boundaries
 - `COMMUNITY.md` – collaboration norms & decision process
-- `Redmoon-40KGF-OPEN-SOURCE-MODEL/PARTS/PARTS.md` – component catalog
+- `Redmoon-40KGF-MODEL/PARTS/PARTS.md` – component catalog
 
 ## 2. Contribution Types
 | Type | Examples | Notes |

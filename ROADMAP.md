@@ -1,6 +1,6 @@
-# Project Roadmap – Redmoon 40KGF Open Source Turbojet
+# Project Roadmap – Redmoon 40KGF Turbojet
 
-This roadmap lays out the structured path from the current repository state (sketches, preliminary parts list, governance docs) to a fully documented, reproducible, safely testable open-source turbine platform including mechanical CAD, firmware, ECU/ESU electronics, manufacturing instructions, validation data, and educational materials.
+This roadmap lays out the structured path from the current repository state (sketches, preliminary parts list, governance docs) to a fully documented, reproducible, safely testable turbine platform including mechanical CAD, firmware, ECU/ESU electronics, manufacturing instructions, validation data, and educational materials.
 
 ---
 ## 0. Current Status (Baseline)
@@ -66,7 +66,7 @@ Deliverables:
 - Parametric CAD for: inlet runner, combustor shell, NGV, turbine sleeve, cartridge receiver, transit ring
 - 2D drawings (PDF + DXF) with: material, finish, tolerances, rev tag
 - Initial BOM (rev A) with indicative suppliers & rough cost
-- CAD contribution guidelines (`/Redmoon-40KGF-OPEN-SOURCE-MODEL/CAD/CAD.md` expansion)
+- CAD contribution guidelines (`/Redmoon-40KGF-MODEL/CAD/CAD.md` expansion)
 Exit Criteria:
 - 100% of currently sketched parts have CAD + neutral format (STEP)
 - BOM coverage ≥ 80% of assemblies

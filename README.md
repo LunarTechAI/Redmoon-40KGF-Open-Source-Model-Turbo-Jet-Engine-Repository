@@ -1,11 +1,11 @@
-# Redmoon 40KGF Open Source Turbojet Engine 🚀🔥  
+# Redmoon 40KGF Turbojet Engine 🚀🔥  
 
-![Redmoon-40KGF](./DOCS/SKETCHES/redmoon-40kgf-open-source-turbo-jet-engine-m1.png)
+![Redmoon-40KGF](./DOCS/SKETCHES/redmoon-40kgf-turbo-jet-engine-m1.png)
 ![Redmoon-40KGF](./DOCS/SKETCHES/turbojet-engine-presentation.png)
-![Demo](./DOCS/SKETCHES/redmoon-40kgf-open-source-turbo-jet-engine.png)  
-*Demo Version of Redmoon 40KGF Open Source Turbojet Engine* 
+![Demo](./DOCS/SKETCHES/redmoon-40kgf-turbo-jet-engine.png)  
+*Demo Version of Redmoon 40KGF Turbojet Engine* 
 ![Isometric View](./DOCS/SKETCHES/turbojet_3d_isometric.png)  
-*Isometric sketch of current open-source configuration*  
+*Isometric sketch of current configuration*  
 
 ---
 
@@ -13,7 +13,7 @@
 
 The **40KG Forced Turbojet Engine** is a cutting-edge micro gas turbine producing **40 kilograms of thrust** in a compact form factor. Built on the principles of the Brayton cycle, it compresses, ignites, and expels air at extreme velocities to generate thrust.  
 
-This project is the **first open-source initiative** making such a powerful engine accessible to developers, aerospace researchers, drone builders, and hobbyists worldwide.  
+This project is a **pioneering initiative** making such a powerful engine accessible to developers, aerospace researchers, drone builders, and hobbyists worldwide.  
 
 > **Why is this a big deal?**  
 > - Lightweight but capable of lifting heavy platforms.  
@@ -29,7 +29,7 @@ This project is the **first open-source initiative** making such a powerful engi
 - **Compact & Robust Design** — billet-machined compressor wheel, high-temp alloys, precision bearings.  
 - **Advanced Engine Control Unit (ECU)** — with auto-start, telemetry, thrust curve programming, and flameout recovery.  
 - **Complete Documentation** — manuals, safety protocols, and whitepapers included.  
-- **Open Source** — enabling contributions from engineers, students, and enthusiasts worldwide.  
+- **Community-Driven** — enabling contributions from engineers, students, and enthusiasts worldwide.  
 
 ---
 
@@ -83,7 +83,7 @@ Here’s the condensed **parts list** from the full documentation:
 | LiPo Battery        | Powers ECU and receiver.                                                  |
 | Radio Receiver      | Receives throttle commands for remote control.                            |
 
-> See the full component catalog with functional explanations in [`Redmoon-40KGF-OPEN-SOURCE-MODEL/PARTS/PARTS.md`](./Redmoon-40KGF-OPEN-SOURCE-MODEL/PARTS/PARTS.md) and detailed sketches in [`DOCS/SKETCHES/SKETCHES.md`](./DOCS/SKETCHES/SKETCHES.md).
+> See the full component catalog with functional explanations in [`Redmoon-40KGF-MODEL/PARTS/PARTS.md`](./Redmoon-40KGF-MODEL/PARTS/PARTS.md) and detailed sketches in [`DOCS/SKETCHES/SKETCHES.md`](./DOCS/SKETCHES/SKETCHES.md).
 
 ---
 
@@ -93,7 +93,7 @@ The 40KG Turbojet enables advanced applications such as:
 
 - **Heavy-Lift UAVs** — cargo drones, rescue drones, and next-gen delivery systems.  
 - **Experimental Aviation** — small jet prototypes, supersonic research.  
-- **STEM & Research** — a fully documented, open-source jet engine for aerospace labs and universities.  
+- **STEM & Research** — a fully documented jet engine for aerospace labs and universities.  
 
 ---
 
@@ -111,7 +111,7 @@ Always follow:
 
 ---
 
-## Why Open Source? 🌍  
+## Project Philosophy 🌍  
 
 We believe in **democratizing aerospace technology**. By opening this project:  
 
@@ -128,13 +128,13 @@ We believe in **democratizing aerospace technology**. By opening this project:
 - Share experimental results, modifications, or new use-cases.  
 - Help us document — add tutorials, CAD diagrams, 3D-printed mounts, or flight data.  
 
-Contributions help make this the **world’s most transparent, responsibly engineered open-source micro‑turbine project.**  
+Contributions help make this the **world’s most transparent, responsibly engineered micro‑turbine project.**  
 
 Quick links:
 - Governance & Behavior: [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) · [`COMMUNITY.md`](./COMMUNITY.md)
 - Ethics & Responsible Use: [`ETHICS.md`](./ETHICS.md)
 - Contribution Process: [`CONTRIBUTING.md`](./CONTRIBUTING.md)
-- Parts & Sketches: [`PARTS.md`](./Redmoon-40KGF-OPEN-SOURCE-MODEL/PARTS/PARTS.md) · [`SKETCHES.md`](./DOCS/SKETCHES/SKETCHES.md)
+- Parts & Sketches: [`PARTS.md`](./Redmoon-40KGF-MODEL/PARTS/PARTS.md) · [`SKETCHES.md`](./DOCS/SKETCHES/SKETCHES.md)
 - Reference Papers: [`DOCS/REFERENCE/`](./DOCS/REFERENCE/)
 - Contact: [`CONTACTS.md`](./CONTACTS.md)
 

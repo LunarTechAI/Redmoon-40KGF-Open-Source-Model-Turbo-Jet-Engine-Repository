@@ -1,6 +1,6 @@
 # Sketches & Component Function Reference
 
-Authoritative visual index of the Redmoon 40KGF open‑source turbojet core components. Each sketch below is paired with a concise functional description, design intent notes, and integration context. Use this alongside the parts list in [`Redmoon-40KGF-OPEN-SOURCE-MODEL/PARTS/PARTS.md`](../../Redmoon-40KGF-OPEN-SOURCE-MODEL/PARTS/PARTS.md) and fabrication guidance in `MANUAL.md`.
+Authoritative visual index of the Redmoon 40KGF turbojet core components. Each sketch below is paired with a concise functional description, design intent notes, and integration context. Use this alongside the parts list in [`Redmoon-40KGF-MODEL/PARTS/PARTS.md`](../../Redmoon-40KGF-MODEL/PARTS/PARTS.md) and fabrication guidance in `MANUAL.md`.
 
 ---
 ## Quick Navigation
@@ -185,7 +185,7 @@ Safety & Validation Checklist:
 - Monitor bearing oil outlet temperature ≤ manufacturer spec.
 
 Licensing & Attribution:
-All images and descriptive text in this directory are covered by the repository LICENSE. Reuse requires attribution to the Redmoon 40KGF Open Source Project.
+All images and descriptive text in this directory are covered by the repository LICENSE. Reuse requires attribution to the Redmoon 40KGF Project.
 
 ---
 Revision: Enriched functional documentation generated (2025-09-11). Future edits: add dimension tables & performance correlations.

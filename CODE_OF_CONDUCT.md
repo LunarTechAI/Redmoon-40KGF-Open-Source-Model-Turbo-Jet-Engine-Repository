@@ -1,6 +1,6 @@
-# Code of Conduct – Redmoon 40KGF Open Source Turbojet Project
+# Code of Conduct – Redmoon 40KGF Turbojet Project
 
-This repository represents a collaborative effort to advance open, ethical, and responsible aero‑propulsion technology. By participating, you agree to uphold the spirit of mutual respect, integrity, safety, and legal compliance described here.
+This repository represents a collaborative effort to advance ethical and responsible aero‑propulsion technology. By participating, you agree to uphold the spirit of mutual respect, integrity, safety, and legal compliance described here.
 
 ## Core Principles
 1. Respect the Project: Treat this codebase, its documentation, designs, and contributors with care. Deliberate damage, misinformation, or sabotage is unacceptable.

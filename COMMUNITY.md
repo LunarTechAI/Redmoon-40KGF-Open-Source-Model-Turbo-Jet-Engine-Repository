@@ -1,9 +1,9 @@
 # Redmoon 40KGF Turbojet – Community Guide
 
-Welcome to the Redmoon Open Source Turbojet community. This document explains how we collaborate, make decisions, and sustain a respectful, technically rigorous environment.
+Welcome to the Redmoon Turbojet community. This document explains how we collaborate, make decisions, and sustain a respectful, technically rigorous environment.
 
 ## 1. Purpose
-Advance safe, ethical, and accessible aero‑propulsion knowledge by collaboratively improving the Redmoon 40KGF open source turbojet model and its documentation.
+Advance safe, ethical, and accessible aero‑propulsion knowledge by collaboratively improving the Redmoon 40KGF turbojet model and its documentation.
 
 ## 2. Core Values
 | Value | Description |
