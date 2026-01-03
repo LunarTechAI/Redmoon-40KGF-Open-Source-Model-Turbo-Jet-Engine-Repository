@@ -1,7 +1,7 @@
 # Redmoon 40KGF: Market Valuation Analysis
 
 **Date:** December 30, 2025  
-**Analyst:** Stephen A. Schwarzman Methodology  
+**Analyst:** La Familia Capital  
 **Status:** Pre-Revenue | Proprietary Technology Asset  
 **Methodology:** First Chicago + Founder Premium + Real Options + Strategic Premiums
 
@@ -520,7 +520,7 @@ Market Vacuum Opportunity Premium = $100 Million
 # PART II: MULTI-METHOD VERIFICATION
 
 > [!IMPORTANT]
-> **Schwarzman Principle:** Never rely on a single valuation method. The truth emerges where multiple independent approaches converge.
+> **Core Principle:** Never rely on a single valuation method. The truth emerges where multiple independent approaches converge.
 
 ---
 
@@ -674,9 +674,9 @@ Comparable Transaction Valuation = $1.3B × 1.67 = $2.17B
 
 ---
 
-## V5. Schwarzman LBO / Strategic Buyer Analysis
+## V5. Strategic Buyer Analysis (LBO Logic)
 
-Stephen Schwarzman's Blackstone approach: What would a strategic buyer pay?
+What would a strategic buyer (defense prime, PE firm) pay?
 
 ### V5.1 Strategic Buyer Logic
 
@@ -711,7 +711,7 @@ Plus:
 Total Strategic Buyer Value = $2.375B + $500M + $250M = $3.125B
 ```
 
-> **Schwarzman Strategic Buyer Value: $3.125B**
+> **Strategic Buyer Analysis Value: $3.125B**
 
 ---
 
@@ -724,7 +724,7 @@ Total Strategic Buyer Value = $2.375B + $500M + $250M = $3.125B
 | **Scorecard** | $1.58B | Medium | Conservative, excludes options |
 | **Risk Factor Summation** | $4.75B | Medium | High-side bound |
 | **Comparable Transactions** | $2.17B | High | Market-based |
-| **Schwarzman Strategic Buyer** | $3.13B | High | Build vs. Buy logic |
+| **Strategic Buyer Analysis** | $3.13B | High | Build vs. Buy logic |
 
 ### V6.1 Statistical Convergence
 
@@ -878,7 +878,7 @@ Standard Deviation: $1.06B
 
 ## 17. Investment Recommendation
 
-**From the desk of Stephen A. Schwarzman:**
+**Investment Recommendation:**
 
 This is not a seed-stage bet on a PowerPoint deck. This is a **proprietary strategic technology asset** with:
 
